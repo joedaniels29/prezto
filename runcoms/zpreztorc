@@ -40,10 +40,10 @@ zstyle ':prezto:load' pmodule \
   'rails' \
   'git' \
   'python' \
-  'syntax-highlighting' \
   'tmux' \
   'utility' \
   'prompt'
+  #'syntax-highlighting' \
   #  'node' \
 
 #
